@@ -1,3 +1,10 @@
+---
+name: marco-juridico-vigente
+version: "2.1"
+type: legal-framework
+description: Marco jurídico vigente del Agente Legal Procesal IA México - Actualizado a 06 de mayo de 2026
+---
+
 # Marco Jurídico Vigente (06 de mayo de 2026)
 
 ## Normas principales aplicables al Derecho Procesal Mexicano
