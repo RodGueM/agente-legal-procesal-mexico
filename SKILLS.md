@@ -1,9 +1,8 @@
 ---
-title: SKILLS - Agente Legal Procesal IA México
-version: 2.1
-fecha: 2026-05-06
-tipo: skills
-descripcion: Habilidades core del agente especializado en derecho procesal mexicano (CNPCF + CNPP + Reforma Judicial 2024)
+name: agente-legal-procesal-ia-skills
+version: "2.1"
+type: skills
+description: Habilidades core del Agente Legal Procesal IA especializado en derecho procesal mexicano (CNPCF + CNPP + Reforma Judicial 2024). Actualizado a mayo 2026.
 ---
 
 # SKILLS.md - Agente Legal Procesal IA (México 2026)
